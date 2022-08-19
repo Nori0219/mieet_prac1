@@ -1,7 +1,8 @@
 # sample
 
 A new Flutter project.
-
+フラッター大学②UIの作り方
+https://www.youtube.com/watch?v=bPGfd0xI1g4&list=PLuLRJz1UnJzEi2Ut24UtPlJfxGhqriFz7&index=2
 ## Getting Started
 
 This project is a starting point for a Flutter application.
